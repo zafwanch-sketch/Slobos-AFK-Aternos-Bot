@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "pvpsmp-BW10.aternos.me",
+    "port":62628,
     "version": "",
     "try-creative": false
   },
